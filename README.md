@@ -20,12 +20,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- Pin your top repositories here to showcase your skills and contributions.
-
----
-
 ## 📫 Connect with Me
 
 - Email: ahmedomar11345@gmail.com
