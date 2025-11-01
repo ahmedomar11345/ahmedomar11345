@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ahmed Omar Ali
+# 👋 Hi, I’m Ahmed Omar 
 
 ### 💼 Penetration Tester | Bug Hunter | Software Engineer  
 ### 👨‍💻 Backend Development (.NET) | Cyber Security Enthusiast
@@ -29,11 +29,9 @@
 ## 📫 Connect with Me
 
 - Email: ahmedomar11345@gmail.com
-- [LinkedIn](https://www.linkedin.com/) (add your profile link here)
-- [HackerOne](https://hackerone.com/) (add your profile link here)
-- [Add your blog or any other relevant links]
+- [LinkedIn](https://www.linkedin.com/in/ahmed-omar-957b022b4) 
+- [Facebook](https://www.facebook.com/share/1KCjDhHbkM/)
 
----
 
 > “Security is not a product, but a process.” – Bruce Schneier
 
