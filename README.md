@@ -16,7 +16,6 @@
 
 - Discovered and reported multiple vulnerabilities in public and private bug bounty programs.
 - Contributed to a safer internet through responsible disclosure.
-- [Add your certificates here if you have any: OSCP, CEH, etc.]
 
 ---
 
