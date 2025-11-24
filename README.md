@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Ahmed Omar 
 
 ### 💼 Penetration Tester | Bug Hunter | Software Engineer  
-### 👨‍💻 Backend Development (.NET) | Cyber Security Enthusiast
+### 👨‍💻 Backend Developer (ASP.NET Core) | Cyber Security Enthusiast
 
 ---
 
 - 🛡️ Specialized in penetration testing, bug hunting, and ethical hacking.
 - 🐞 Bug bounty hunter on HackerOne and other platforms – always on the lookout for vulnerabilities!
-- 💻 Software engineer with strong experience in backend development using .NET technologies.
+- 💻 Software engineer with strong experience in backend development using ASP.NET Core technologies.
 - 🛠️ Interested in automation, security research, and developing security tools.
 
 ---
@@ -26,7 +26,7 @@
 - [Facebook](https://www.facebook.com/share/1KCjDhHbkM/)
 
 
-> “Security is not a product, but a process.” – Bruce Schneier
+> “Security is not a product, but a process.” 
 
 ---
 
