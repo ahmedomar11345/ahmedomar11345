@@ -22,8 +22,8 @@
 ## 📫 Connect with Me
 
 - Email: ahmedomar11345@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ahmed-omar-957b022b4) 
-- [Facebook](https://www.facebook.com/share/1KCjDhHbkM/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-omar-957b022b4) 
+- Facebook: [Facebook](https://www.facebook.com/share/1KCjDhHbkM/)
 
 
 > “Security is not a product, but a process.” 
