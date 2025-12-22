@@ -12,7 +12,7 @@
 
 > Cybersecurity Specialist | Penetration Tester | Backend Developer
 
-I'm Ahmed El Gendy, a dedicated cybersecurity professional and backend developer specializing in penetration testing and .NET development.  
+I'm Ahmed Omar, a dedicated cybersecurity professional and backend developer specializing in penetration testing and .NET development.  
 I'm passionate about securing applications, finding vulnerabilities, and building robust backend systems.
 
 🎯 What drives me:
@@ -58,7 +58,7 @@ I'm passionate about securing applications, finding vulnerabilities, and buildin
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElGendy&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmar&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
 </div>
 
 ---
@@ -70,10 +70,10 @@ I'm passionate about securing applications, finding vulnerabilities, and buildin
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedElGendy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedOmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElGendy&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmar&theme=tokyonight&hide_border=true&background=0d1117"/>
 </td>
 </tr>
 </table>
@@ -90,8 +90,8 @@ I'm passionate about securing applications, finding vulnerabilities, and buildin
 <tr>
 <td width="50%">
 
-<a href="https://github.com/AhmedElGendy/VulnScanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=VulnScanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/AhmedOmar/VulnScanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=VulnScanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 Vulnerability Scanner
@@ -102,8 +102,8 @@ Vulnerability Scanner
 </td>
 <td width="50%">
 
-<a href="https://github.com/AhmedElGendy/SecureAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=SecureAPI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/AhmedOmar/SecureAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=SecureAPI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 Secure .NET API
@@ -123,7 +123,7 @@ Secure .NET API
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElGendy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
