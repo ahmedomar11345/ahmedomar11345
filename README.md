@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Omar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Security+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Omar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Bug+Bounty+Hunter+%7C+Security+Researcher)
 
 </div>
 
@@ -10,12 +10,13 @@
 
 ## 👨‍💻 About Me
 
-> Cybersecurity Specialist | Penetration Tester | Backend Developer
+> Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Backend Developer
 
-I'm Ahmed Omar, a dedicated cybersecurity professional and backend developer specializing in penetration testing and .NET development.  
-I'm passionate about securing applications, finding vulnerabilities, and building robust backend systems.
+I'm Ahmed Omar, a dedicated cybersecurity professional and backend developer specializing in penetration testing, bug bounty hunting, and .NET development.  
+I'm passionate about securing applications, discovering vulnerabilities, and building robust backend systems.
 
 🎯 What drives me:
+- Hunting for vulnerabilities on bug bounty platforms (HackerOne, Bugcrowd)  
 - Identifying and mitigating security vulnerabilities  
 - Building secure and scalable backend systems with .NET  
 - Conducting comprehensive penetration tests and security assessments  
@@ -137,7 +138,7 @@ Secure .NET API
 |:---:|:---:|:---:|
 | Advanced Web Application Security | Cloud Security & DevSecOps | Penetration Testing, .NET, Security Best Practices |
 
-⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🛡️
+⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🐛💰
 
 </div>
 
@@ -148,6 +149,7 @@ Secure .NET API
 <div align="center">
 
 ### Security Expertise
+- Bug Bounty Hunting (HackerOne, Bugcrowd, Intigriti)
 - Web Application Penetration Testing (OWASP Top 10)
 - Network Security & Vulnerability Assessment
 - Security Code Review & Secure Development
