@@ -1,33 +1,186 @@
-# 👋 Hi, I’m Ahmed Omar 
+# 👋 Welcome to My Digital Workspace
 
-### 💼 Penetration Tester | Bug Hunter | Software Engineer  
-### 👨‍💻 Backend Developer (ASP.NET Core) | Cyber Security Enthusiast
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+El+Gendy+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Security+Researcher+%26+Problem+Solver)
 
----
-
-- 🛡️ Specialized in penetration testing, bug hunting, and ethical hacking.
-- 🐞 Bug bounty hunter on HackerOne and other platforms – always on the lookout for vulnerabilities!
-- 💻 Software engineer with strong experience in backend development using ASP.NET Core technologies.
-- 🛠️ Interested in automation, security research, and developing security tools.
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 👨‍💻 About Me
 
-- Discovered and reported multiple vulnerabilities in public and private bug bounty programs.
-- Contributed to a safer internet through responsible disclosure.
+> Cybersecurity Specialist | Penetration Tester | Backend Developer
 
----
+I'm Ahmed El Gendy, a dedicated cybersecurity professional and backend developer specializing in penetration testing and .NET development.  
+I'm passionate about securing applications, finding vulnerabilities, and building robust backend systems.
 
-## 📫 Connect with Me
-
-- Email: ahmedomar11345@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-omar-957b022b4) 
-- Facebook: [Facebook](https://www.facebook.com/share/1KCjDhHbkM/)
-
-
-> “Security is not a product, but a process.” 
+🎯 What drives me:
+- Identifying and mitigating security vulnerabilities  
+- Building secure and scalable backend systems with .NET  
+- Conducting comprehensive penetration tests and security assessments  
+- Staying updated with the latest security threats and mitigation techniques  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&theme=dracula)
+## 🛠 Technical Arsenal
+
+<div align="center">
+
+### 🔐 Cybersecurity & Penetration Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash" />
+</p>
+
+**Tools:** Burp Suite | Metasploit | Nmap | Wireshark | OWASP ZAP | Nessus | SQLMap
+
+### 💻 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,redis,docker" />
+</p>
+
+**Technologies:** ASP.NET Core | Entity Framework | RESTful APIs | Microservices | SQL Server
+
+### 🛠 Tools & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js" />
+</p>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedElGendy&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedElGendy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElGendy&theme=tokyonight&hide_border=true&background=0d1117"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/AhmedElGendy/VulnScanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=VulnScanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+Vulnerability Scanner
+- Python-based security tool  
+- Automated vulnerability detection  
+- Comprehensive reporting  
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/AhmedElGendy/SecureAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=SecureAPI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+Secure .NET API
+- ASP.NET Core Web API  
+- JWT Authentication  
+- Clean Architecture  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElGendy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+## 🌟 What I'm Currently Working On
+
+<div align="center">
+
+| 🔭 Exploring | 🌱 Learning | 💬 Ask me about |
+|:---:|:---:|:---:|
+| Advanced Web Application Security | Cloud Security & DevSecOps | Penetration Testing, .NET, Security Best Practices |
+
+⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🛡️
+
+</div>
+
+---
+
+## 📜 Certifications & Skills
+
+<div align="center">
+
+### Security Expertise
+- Web Application Penetration Testing (OWASP Top 10)
+- Network Security & Vulnerability Assessment
+- Security Code Review & Secure Development
+- API Security Testing
+
+### Backend Development
+- RESTful API Design & Development
+- Database Design & Optimization
+- Authentication & Authorization (JWT, OAuth)
+- Microservices Architecture
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="mailto:ahmedking23473@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201027772838">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-el-gendy-59058a2b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💫 *"Security is not a product, but a process. Keep learning, stay vigilant."*
+
+</div>
