@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Ahmed Omar 👨‍💻  
-**Cybersecurity Specialist | Penetration Tester | Backend Developer**
+**Cybersecurity Specialist | Penetration Tester | Secure Backend Developer**
 
 </div>
 
@@ -11,104 +11,105 @@
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity-focused backend developer with strong experience in application security and secure backend design.  
-My work sits at the intersection of **security, backend engineering, and system reliability**.
+I'm a **cybersecurity specialist** focused on finding and fixing security vulnerabilities.
 
-I focus on understanding how systems break, then designing them to be more secure, scalable, and resilient.
+I specialize in **penetration testing** and **secure application development**. I break into systems to understand their weaknesses, then build them to be more secure and resilient.
+
+My work combines **offensive security** (finding vulnerabilities) with **defensive development** (building secure systems). Security isn't just a feature I add — it's how I approach every project from the ground up.
 
 ---
 
-## 🔐 Cybersecurity Focus
+## 🔐 Cybersecurity Expertise
 
-### 🛡️ Application Security
+### 🛡️ Penetration Testing
 - Web Application Penetration Testing (OWASP Top 10)
-- API Security Testing
+- API Security Testing (REST, GraphQL)
 - Authentication & Authorization Testing
-- Access Control & IDOR vulnerabilities
-- Business Logic Flaws
-- Secure Code Review
+- Access Control Testing (IDOR, Privilege Escalation)
+- SQL Injection, XSS, CSRF, SSRF
+- Business Logic Vulnerabilities
 
-### 🧪 Security Techniques
+### 🧪 Security Testing
 - Manual vulnerability discovery
 - Exploitation & impact analysis
-- Secure architecture review
 - Threat modeling
-- Input validation & data protection
+- Secure code review
+- Security documentation & reporting
 
 ### 🛠️ Security Tools
 - Burp Suite
+- OWASP ZAP
 - Nmap
 - Metasploit
 - SQLMap
 - Wireshark
-- OWASP ZAP
-- Linux-based security tooling
+- Linux security tools (Kali, Parrot OS)
 
 ---
 
-## 💻 Backend Development
+## 💻 Secure Backend Development
 
 ### ⚙️ Backend Technologies
 - ASP.NET Core Web API
 - RESTful API Design
-- Middleware & Filters
-- Background Services
-- Logging & Error Handling
-- API Versioning
+- Secure Middleware & Filters
+- Input Validation & Sanitization
+- Logging & Monitoring
+- API Rate Limiting
 
-### 🧱 Architecture & Design
+### 🧱 Secure Architecture
 - Clean Architecture
 - SOLID Principles
-- Dependency Injection
-- Separation of Concerns
-- Maintainable & scalable codebases
+- Defense in Depth
+- Principle of Least Privilege
+- Secure by Design
 
 ---
 
-## 🗄️ Databases & Data Layer
+## 🗄️ Databases & Data Security
 
 ### 🟢 SQL Server
-- Database Design & Normalization
-- Indexing & Query Optimization
-- Stored Procedures & Views
-- Transactions & Concurrency Handling
-- Performance Tuning
-- Secure Data Access Patterns
+- Secure database design
+- SQL Injection Prevention
+- Encryption at rest & in transit
+- Access Control & Auditing
+- Query Optimization
 
 ### 🧠 Data Access
 - Entity Framework Core
-- LINQ
-- Raw SQL when needed
+- LINQ with input validation
 - Repository Pattern
+- Secure connection management
 
 ### 🔴 Other Databases
 - PostgreSQL
 - MySQL
-- Redis (Caching)
+- Redis (Secure caching)
 
 ---
 
-## 🔐 Backend Security Practices
-
-Security is treated as a core backend responsibility, not an afterthought.
+## 🔐 Security Implementation
 
 - JWT Authentication
-- Role-Based Authorization
-- Secure Password Handling
-- Token Expiration & Refresh
-- SQL Injection Prevention
-- Secure API Design
-- Least Privilege Access
+- Role-Based Access Control (RBAC)
+- Secure Password Hashing (bcrypt, Argon2)
+- Token Management & Rotation
+- Input Validation & Output Encoding
+- Protection against Injection Attacks
+- HTTPS Enforcement
+- Security Headers (CSP, HSTS, X-Frame-Options)
+- CORS Configuration
 
 ---
 
 ## 🧠 Programming Languages
 
-- C# (Primary)
-- Python
-- JavaScript
-- C++
-- Java
+- **C#** (Primary)
+- **Python** (Security automation)
+- **JavaScript**
+- **Bash/PowerShell** (Scripting)
+- **C++**
+- **Java**
 
 ---
 
@@ -120,54 +121,71 @@ Security is treated as a core backend responsibility, not an afterthought.
 - Visual Studio / VS Code
 - Linux (Kali, Ubuntu)
 - Windows
+- VirtualBox / VMware
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Secure .NET API
-- ASP.NET Core Web API
-- Clean Architecture
-- JWT Authentication
-- SQL Server backend
-- Security-focused design
+### 🔐 Secure Banking API System
+- ASP.NET Core with multi-layer security
+- JWT authentication with refresh tokens
+- Role-based authorization
+- SQL Server with encrypted data
+- OWASP Top 10 protection
 
-### 🧪 Security & Backend Utilities
-- Custom security testing scripts
-- API testing tools
-- Backend automation utilities
+### 🧪 Security Testing Framework
+- Python vulnerability scanner
+- API security testing automation
+- Automated reporting
 
----
-
-## 📈 What I’m Currently Working On
-
-- Advanced Web & API Security
-- Backend Performance Optimization
-- Secure Database Design
-- Automation for security testing
-- Improving backend scalability patterns
+### 🛡️ Penetration Testing Lab
+- Vulnerable applications for practice
+- Custom CTF challenges
+- Security automation tools
 
 ---
 
-## 🎯 Professional Mindset
+## 📈 Current Focus
 
-- Security is a process, not a feature
-- Backend design defines system security
-- Clear code is more secure than clever code
-- Scalability without security is a risk
+- Advanced Web Application Penetration Testing
+- API Security & OAuth 2.0
+- Cloud Security (AWS, Azure)
+- DevSecOps & CI/CD Security
+- Security Automation
 
 ---
 
-## 📬 Contact
+## 🎯 Professional Philosophy
 
-- 📧 Email: ahmedsenara455@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-omar-957b022b4  
-- 💬 WhatsApp: https://wa.me/2001029790846  
+- **Security by Design, Not by Accident**
+- Think like an attacker, build like a defender
+- Security is a continuous process
+- Clear code is secure code
+
+---
+
+## 📜 Certifications (In Progress)
+
+- eJPT (eLearnSecurity Junior Penetration Tester)
+- CEH (Certified Ethical Hacker)
+- OSCP (Offensive Security Certified Professional)
+
+---
+
+## 📬 Get In Touch
+
+- 📧 **Email:** [ahmedsenara455@gmail.com](mailto:ahmedsenara455@gmail.com)
+- 💼 **LinkedIn:** [Ahmed Omar](https://www.linkedin.com/in/ahmed-omar-957b022b4)
+- 💬 **WhatsApp:** [+20 1029790846](https://wa.me/2001029790846)
+- 🐙 **GitHub:** [ahmedomar11345](https://github.com/ahmedomar11345)
 
 ---
 
 <div align="center">
 
-### *“I break systems to understand them — then build them stronger.”* 🔐
+### *"I break systems to understand them — then build them stronger."* 🔐
+
+**Security is not just what I do — it's how I think.**
 
 </div>
