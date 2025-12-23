@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Ahmed Omar 👨‍💻  
+## I'm Ahmed Omar 👨‍💻  
 **Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Secure Backend Developer**
 
 </div>
