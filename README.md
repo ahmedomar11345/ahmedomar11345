@@ -1,170 +1,188 @@
 # 👋 Welcome to My Digital Workspace
 
 <div align="center">
-
-### Hi, I'm Ahmed Omar 👨‍💻
-
-**Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Backend Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-omar-957b022b4)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahmedsenara455@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/2001029790846)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedomar11345\&color=blueviolet\&style=flat-square)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Omar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Bug+Bounty+Hunter+%7C+Security+Researcher)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
-أنا أحمد، شغوف بالأمن السيبراني واختبار الاختراق، بحب أفهم السيستم من جوه وأكسره (قانوني 😄) عشان يبقى أقوى.
+> Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Backend Developer
 
-* 🔐 Web & API Penetration Testing (OWASP Top 10)
-* 🐛 Active Bug Bounty Hunter
-* 🛡️ Application & Backend Security
-* 💻 Backend Developer (.NET Core)
-* 🔍 Security Research & CTF Player
+I'm Ahmed Omar, a dedicated cybersecurity professional and backend developer specializing in penetration testing, bug bounty hunting, and .NET development.  
+I'm passionate about securing applications, discovering vulnerabilities, and building robust backend systems.
 
-> **Security مش Tool بتشغله… دي Mindset.**
-
----
-
-## 🔐 Cybersecurity Arsenal
-
-```text
-Recon & Scanning
-├── Nmap        ├── Amass
-├── Subfinder   ├── Gobuster / Ffuf
-
-Web & API Testing
-├── Burp Suite Pro   ├── OWASP ZAP
-├── SQLMap           ├── Commix
-├── Postman          ├── JWT Tooling
-
-Exploitation & Analysis
-├── Metasploit       ├── Wireshark
-├── John / Hashcat   ├── Linux Internals
-```
-
-**Strong Focus On:**
-
-* IDOR & Access Control Bugs
-* Auth / JWT Vulnerabilities
-* Business Logic Flaws
-* SQLi, XSS, CSRF
-* Secure Code Review
+🎯 What drives me:
+- Hunting for vulnerabilities on bug bounty platforms (HackerOne, Bugcrowd)  
+- Identifying and mitigating security vulnerabilities  
+- Building secure and scalable backend systems with .NET  
+- Conducting comprehensive penetration tests and security assessments  
+- Staying updated with the latest security threats and mitigation techniques  
 
 ---
 
-## 💻 Backend & Development Stack
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-
-**What I Build:**
-
-* Secure REST APIs (ASP.NET Core)
-* JWT / OAuth2 Authentication Systems
-* Microservices-ready Backends
-* Database Design & Optimization
-
----
-
-## 🧪 Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
-
----
-
-## 🐧 Operating Systems
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kali-linux\&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-00AEFF?style=flat-square\&logo=linux\&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)
-
----
-
-## 🐛 Bug Bounty Journey
-
-Active on platforms زي:
-
-* HackerOne
-* Bugcrowd
-* Intigriti
-
-**I Hunt For:**
-
-* Auth Bypass & Logic Bugs
-* IDOR & Privilege Escalation
-* API Misconfigurations
-* Sensitive Data Exposure
-
----
-
-## 🚀 Currently Grinding On
-
-* Advanced Web & API Exploitation
-* Bug Bounty Automation (Python)
-* Cloud Security Basics (AWS / Azure)
-* Writing my own Pentesting Tools
-
----
-
-## 📊 GitHub Stats
+## 🛠 Technical Arsenal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedomar11345\&show_icons=true\&theme=tokyonight\&hide_border=true)
+### 🔐 Cybersecurity & Penetration Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar11345\&theme=tokyonight\&hide_border=true)
+**Tools:** Burp Suite | Metasploit | Nmap | Wireshark | OWASP ZAP | Nessus | SQLMap
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345\&layout=compact\&theme=tokyonight\&hide_border=true)
+### 💻 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,redis,docker" />
+</p>
+
+**Technologies:** ASP.NET Core | Entity Framework | RESTful APIs | Microservices | SQL Server
+
+### 🛠 Tools & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js" />
+</p>
 
 </div>
 
 ---
 
-## 🎯 Goals
+## 🏆 GitHub Trophies & Achievements
 
-* 🔓 Reach Advanced Bug Bounty Level
-* 🧠 Deep Dive into Exploit Development
-* 🛠️ Build Public Security Tools
-* ✍️ Share Knowledge (Blogs / Writeups)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmar&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+</div>
 
 ---
 
-## 📬 Let’s Connect
-
-لو مهتم بالأمن السيبراني أو حابب نشتغل سوا — ابعتلي 👇
+## 📊 GitHub Statistics Overview
 
 <div align="center">
 
-<a href="mailto:ahmedsenara455@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-omar-957b022b4">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/2001029790846">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedOmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmar&theme=tokyonight&hide_border=true&background=0d1117"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## 💻 Featured Projects
+
 <div align="center">
 
-### ⚡ *"I break things to understand them… then secure them."* 🔒
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/AhmedOmar/VulnScanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=VulnScanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+Vulnerability Scanner
+- Python-based security tool  
+- Automated vulnerability detection  
+- Comprehensive reporting  
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/AhmedOmar/SecureAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=SecureAPI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+Secure .NET API
+- ASP.NET Core Web API  
+- JWT Authentication  
+- Clean Architecture  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+## 🌟 What I'm Currently Working On
+
+<div align="center">
+
+| 🔭 Exploring | 🌱 Learning | 💬 Ask me about |
+|:---:|:---:|:---:|
+| Advanced Web Application Security | Cloud Security & DevSecOps | Penetration Testing, .NET, Security Best Practices |
+
+⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🐛💰
+
+</div>
+
+---
+
+## 📜 Certifications & Skills
+
+<div align="center">
+
+### Security Expertise
+- Bug Bounty Hunting (HackerOne, Bugcrowd, Intigriti)
+- Web Application Penetration Testing (OWASP Top 10)
+- Network Security & Vulnerability Assessment
+- Security Code Review & Secure Development
+- API Security Testing
+
+### Backend Development
+- RESTful API Design & Development
+- Database Design & Optimization
+- Authentication & Authorization (JWT, OAuth)
+- Microservices Architecture
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="mailto:ahmedsenara455@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/2001029790846">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💫 *"Security is not a product, but a process. Keep learning, stay vigilant."*
 
 </div>
