@@ -1,8 +1,9 @@
 # 👋 Welcome to My Digital Workspace
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Omar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Bug+Bounty+Hunter+%7C+Security+Researcher)
+
+## Ahmed Omar 👨‍💻  
+**Cybersecurity Specialist | Penetration Tester | Backend Developer**
 
 </div>
 
@@ -10,157 +11,163 @@
 
 ## 👨‍💻 About Me
 
-> Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Backend Developer
+I am a cybersecurity-focused backend developer with strong experience in application security and secure backend design.  
+My work sits at the intersection of **security, backend engineering, and system reliability**.
 
-I'm Ahmed Omar, a dedicated cybersecurity professional and backend developer specializing in penetration testing, bug bounty hunting, and .NET development.
-
-🎯 What drives me:
-- Hunting for vulnerabilities on bug bounty platforms (HackerOne, Bugcrowd)  
-- Identifying and mitigating security vulnerabilities  
-- Building secure and scalable backend systems with .NET & SQL Server  
-- Conducting comprehensive penetration tests and security assessments  
-- Staying updated with the latest security threats and mitigation techniques  
+I focus on understanding how systems break, then designing them to be more secure, scalable, and resilient.
 
 ---
 
-## 🛠 Technical Arsenal
+## 🔐 Cybersecurity Focus
+
+### 🛡️ Application Security
+- Web Application Penetration Testing (OWASP Top 10)
+- API Security Testing
+- Authentication & Authorization Testing
+- Access Control & IDOR vulnerabilities
+- Business Logic Flaws
+- Secure Code Review
+
+### 🧪 Security Techniques
+- Manual vulnerability discovery
+- Exploitation & impact analysis
+- Secure architecture review
+- Threat modeling
+- Input validation & data protection
+
+### 🛠️ Security Tools
+- Burp Suite
+- Nmap
+- Metasploit
+- SQLMap
+- Wireshark
+- OWASP ZAP
+- Linux-based security tooling
+
+---
+
+## 💻 Backend Development
+
+### ⚙️ Backend Technologies
+- ASP.NET Core Web API
+- RESTful API Design
+- Middleware & Filters
+- Background Services
+- Logging & Error Handling
+- API Versioning
+
+### 🧱 Architecture & Design
+- Clean Architecture
+- SOLID Principles
+- Dependency Injection
+- Separation of Concerns
+- Maintainable & scalable codebases
+
+---
+
+## 🗄️ Databases & Data Layer
+
+### 🟢 SQL Server
+- Database Design & Normalization
+- Indexing & Query Optimization
+- Stored Procedures & Views
+- Transactions & Concurrency Handling
+- Performance Tuning
+- Secure Data Access Patterns
+
+### 🧠 Data Access
+- Entity Framework Core
+- LINQ
+- Raw SQL when needed
+- Repository Pattern
+
+### 🔴 Other Databases
+- PostgreSQL
+- MySQL
+- Redis (Caching)
+
+---
+
+## 🔐 Backend Security Practices
+
+Security is treated as a core backend responsibility, not an afterthought.
+
+- JWT Authentication
+- Role-Based Authorization
+- Secure Password Handling
+- Token Expiration & Refresh
+- SQL Injection Prevention
+- Secure API Design
+- Least Privilege Access
+
+---
+
+## 🧠 Programming Languages
+
+- C# (Primary)
+- Python
+- JavaScript
+- C++
+- Java
+
+---
+
+## 🛠 Tools & Environment
+
+- Git & GitHub
+- Docker
+- Postman
+- Visual Studio / VS Code
+- Linux (Kali, Ubuntu)
+- Windows
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Secure .NET API
+- ASP.NET Core Web API
+- Clean Architecture
+- JWT Authentication
+- SQL Server backend
+- Security-focused design
+
+### 🧪 Security & Backend Utilities
+- Custom security testing scripts
+- API testing tools
+- Backend automation utilities
+
+---
+
+## 📈 What I’m Currently Working On
+
+- Advanced Web & API Security
+- Backend Performance Optimization
+- Secure Database Design
+- Automation for security testing
+- Improving backend scalability patterns
+
+---
+
+## 🎯 Professional Mindset
+
+- Security is a process, not a feature
+- Backend design defines system security
+- Clear code is more secure than clever code
+- Scalability without security is a risk
+
+---
+
+## 📬 Contact
+
+- 📧 Email: ahmedsenara455@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-omar-957b022b4  
+- 💬 WhatsApp: https://wa.me/2001029790846  
+
+---
 
 <div align="center">
 
-### 🔐 Cybersecurity & Penetration Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash" />
-</p>
-
-**Tools:** Burp Suite | Metasploit | Nmap | Wireshark | OWASP ZAP | Nessus | SQLMap
-
-### 💻 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,redis,docker,mssql" />
-</p>
-
-**Technologies:** ASP.NET Core | Entity Framework | RESTful APIs | Microservices | SQL Server
-
-### 🛠 Tools & Dev
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
-</p>
-
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js" />
-</p>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedomar11345&theme=discord&no-frame=true&margin-w=4"/>
-</div>
-
----
-
-## 📊 GitHub Statistics Overview
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar11345&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/ahmedomar11345/VulnScanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedomar11345&repo=VulnScanner&theme=tokyonight&hide_border=true" />
-</a>
-
-**Vulnerability Scanner**
-- Python-based security tool  
-- Automated vulnerability detection  
-- Comprehensive reporting  
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/ahmedomar11345/SecureAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedomar11345&repo=SecureAPI&theme=tokyonight&hide_border=true" />
-</a>
-
-**Secure .NET API**
-- ASP.NET Core Web API  
-- JWT Authentication  
-- Clean Architecture  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌟 What I'm Currently Working On
-
-<div align="center">
-
-| 🔭 Exploring | 🌱 Learning | 💬 Ask me about |
-|:---:|:---:|:---:|
-| Advanced Web Application Security | Cloud Security & DevSecOps | Penetration Testing, .NET, Security Best Practices |
-
-⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🐛💰
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<p>
-  <a href="mailto:ahmedsenara455@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/2001029790846">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 💫 *"Security is not a product, but a process. Keep learning, stay vigilant."*
+### *“I break systems to understand them — then build them stronger.”* 🔐
 
 </div>
