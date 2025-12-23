@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Ahmed Omar 👨‍💻  
-**Cybersecurity Specialist | Penetration Tester | Secure Backend Developer**
+**Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | Secure Backend Developer**
 
 </div>
 
@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **cybersecurity specialist** focused on finding and fixing security vulnerabilities.
+I'm a **cybersecurity specialist** who finds and fixes security vulnerabilities before attackers do.
 
-I specialize in **penetration testing** and **secure application development**. I break into systems to understand their weaknesses, then build them to be more secure and resilient.
+I specialize in **penetration testing**, **bug bounty hunting**, and **secure application development**. I think like an attacker to build better defenses.
 
-My work combines **offensive security** (finding vulnerabilities) with **defensive development** (building secure systems). Security isn't just a feature I add — it's how I approach every project from the ground up.
+Security isn't just a feature — it's how I approach every project from the ground up.
 
 ---
 
@@ -149,6 +149,7 @@ My work combines **offensive security** (finding vulnerabilities) with **defensi
 ## 📈 Current Focus
 
 - Advanced Web Application Penetration Testing
+- Bug Bounty Hunting
 - API Security & OAuth 2.0
 - Cloud Security (AWS, Azure)
 - DevSecOps & CI/CD Security
@@ -175,10 +176,20 @@ My work combines **offensive security** (finding vulnerabilities) with **defensi
 
 ## 📬 Get In Touch
 
-- 📧 **Email:** [ahmedsenara455@gmail.com](mailto:ahmedsenara455@gmail.com)
-- 💼 **LinkedIn:** [Ahmed Omar](https://www.linkedin.com/in/ahmed-omar-957b022b4)
-- 💬 **WhatsApp:** [+20 1029790846](https://wa.me/2001029790846)
-- 🐙 **GitHub:** [ahmedomar11345](https://github.com/ahmedomar11345)
+<p align="center">
+  <a href="mailto:ahmedsenara455@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/2001029790846">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/ahmedomar11345">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
