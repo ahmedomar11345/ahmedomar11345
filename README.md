@@ -70,9 +70,9 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedOmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmar&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar11345&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -80,17 +80,17 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 ## 💻 Featured Projects
 
-### 🔐 VulnScanner
-**Vulnerability Scanner**
-- Python-based security tool  
-- Automated vulnerability detection  
-- Comprehensive reporting  
+### 🔐 Security Tools & Projects
+**Cybersecurity & Penetration Testing**
+- Web Application Security Scanner  
+- Automated Vulnerability Detection Tools  
+- Custom Exploit Development Scripts  
 
-### 🛡️ SecureAPI
-**Secure .NET API**
-- ASP.NET Core Web API  
-- JWT Authentication  
-- Clean Architecture  
+### 🛡️ Backend Development
+**Secure .NET Applications**
+- ASP.NET Core Web APIs  
+- JWT Authentication & Authorization  
+- Clean Architecture Implementation  
 
 ---
 
@@ -98,7 +98,7 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -159,6 +159,6 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 ### 💫 *"Security is not a product, but a process. Keep learning, stay vigilant."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedOmar&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedomar11345&color=blueviolet&style=for-the-badge)
 
 </div>
