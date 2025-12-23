@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Omar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Cybersecurity+Specialist+%7C+Penetration+Tester;Backend+Developer+%7C+.NET+Expert;Bug+Bounty+Hunter+%7C+Security+Researcher)
+### Hi, I'm Ahmed Omar 👨‍💻
+**Cybersecurity Specialist | Penetration Tester | Backend Developer | .NET Expert | Bug Bounty Hunter | Security Researcher**
 
 </div>
 
@@ -29,37 +30,38 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 <div align="center">
 
 ### 🔐 Cybersecurity & Penetration Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Tools:** Burp Suite | Metasploit | Nmap | Wireshark | OWASP ZAP | Nessus | SQLMap
 
 ### 💻 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,redis,docker" />
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Technologies:** ASP.NET Core | Entity Framework | RESTful APIs | Microservices | SQL Server
 
 ### 🛠 Tools & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js" />
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmar&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7"/>
 </div>
 
 ---
@@ -68,16 +70,9 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedOmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmar&theme=tokyonight&hide_border=true&background=0d1117"/>
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedOmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmar&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -85,38 +80,17 @@ I'm passionate about securing applications, discovering vulnerabilities, and bui
 
 ## 💻 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/AhmedOmar/VulnScanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=VulnScanner&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-Vulnerability Scanner
+### 🔐 VulnScanner
+**Vulnerability Scanner**
 - Python-based security tool  
 - Automated vulnerability detection  
 - Comprehensive reporting  
 
-</td>
-<td width="50%">
-
-<a href="https://github.com/AhmedOmar/SecureAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedOmar&repo=SecureAPI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-Secure .NET API
+### 🛡️ SecureAPI
+**Secure .NET API**
 - ASP.NET Core Web API  
 - JWT Authentication  
 - Clean Architecture  
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -124,7 +98,7 @@ Secure .NET API
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -138,7 +112,7 @@ Secure .NET API
 |:---:|:---:|:---:|
 | Advanced Web Application Security | Cloud Security & DevSecOps | Penetration Testing, .NET, Security Best Practices |
 
-⚡️ Fun fact: I love breaking things (legally) to make them more secure 🔒🐛💰
+⚡️ **Fun fact:** I love breaking things (legally) to make them more secure 🔒🐛💰
 
 </div>
 
@@ -184,5 +158,7 @@ Secure .NET API
 ---
 
 ### 💫 *"Security is not a product, but a process. Keep learning, stay vigilant."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedOmar&color=blueviolet&style=for-the-badge)
 
 </div>
