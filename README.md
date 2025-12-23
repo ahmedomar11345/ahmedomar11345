@@ -47,67 +47,74 @@ Security isn't just a feature — it's how I approach every project from the gro
 
 ---
 
-## 💻 Secure Backend Development
+## 💻 Backend Development
 
 ### ⚙️ Backend Technologies
-- ASP.NET Core Web API
+- **ASP.NET Core Web API**
 - RESTful API Design
-- Secure Middleware & Filters
-- Input Validation & Sanitization
-- Logging & Monitoring
-- API Rate Limiting
+- Middleware & Filters
+- Background Services & Task Scheduling
+- Logging & Error Handling
+- API Versioning
+- Rate Limiting & Throttling
 
-### 🧱 Secure Architecture
+### 🧱 Architecture & Design Patterns
 - Clean Architecture
 - SOLID Principles
-- Defense in Depth
-- Principle of Least Privilege
-- Secure by Design
+- Repository Pattern
+- Unit of Work Pattern
+- Dependency Injection
+- CQRS (Command Query Responsibility Segregation)
 
 ---
 
-## 🗄️ Databases & Data Security
+## 🗄️ Databases & Data Management
 
 ### 🟢 SQL Server
-- Secure database design
-- SQL Injection Prevention
-- Encryption at rest & in transit
-- Access Control & Auditing
+- Database Design & Normalization
+- Stored Procedures & Views
+- Indexing & Performance Tuning
+- Transaction Management
 - Query Optimization
+- Backup & Recovery Strategies
 
 ### 🧠 Data Access
-- Entity Framework Core
-- LINQ with input validation
+- **Entity Framework Core**
+- LINQ
+- Dapper (Micro ORM)
+- Raw SQL when needed
 - Repository Pattern
-- Secure connection management
+- Database Migrations
 
 ### 🔴 Other Databases
 - PostgreSQL
 - MySQL
-- Redis (Secure caching)
+- Redis (Caching & Session Management)
 
 ---
 
-## 🔐 Security Implementation
+## 🔐 Application Security
 
-- JWT Authentication
+- **JWT Authentication**
 - Role-Based Access Control (RBAC)
 - Secure Password Hashing (bcrypt, Argon2)
 - Token Management & Rotation
-- Input Validation & Output Encoding
-- Protection against Injection Attacks
+- **Input Validation & Output Encoding**
+- **SQL Injection Prevention**
+- **Protection against XSS, CSRF, SSRF**
 - HTTPS Enforcement
 - Security Headers (CSP, HSTS, X-Frame-Options)
 - CORS Configuration
+- Encryption at Rest & in Transit
 
 ---
 
 ## 🧠 Programming Languages
 
 - **C#** (Primary)
-- **Python** (Security automation)
+- **Python** (Security automation & scripting)
 - **JavaScript**
-- **Bash/PowerShell** (Scripting)
+- **Bash/PowerShell** (Automation)
 - **C++**
 - **Java**
 
@@ -115,34 +122,38 @@ Security isn't just a feature — it's how I approach every project from the gro
 
 ## 🛠 Tools & Environment
 
-- Git & GitHub
-- Docker
-- Postman
-- Visual Studio / VS Code
-- Linux (Kali, Ubuntu)
-- Windows
-- VirtualBox / VMware
+- **Git & GitHub**
+- **Docker**
+- **Postman** (API Testing)
+- **Visual Studio / VS Code**
+- **Linux** (Kali, Ubuntu)
+- **Windows**
+- **VirtualBox / VMware**
+- **Azure DevOps / GitHub Actions** (CI/CD)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔐 Secure Banking API System
-- ASP.NET Core with multi-layer security
+- ASP.NET Core Web API with Clean Architecture
 - JWT authentication with refresh tokens
-- Role-based authorization
-- SQL Server with encrypted data
+- Role-based authorization & audit logging
+- SQL Server with Entity Framework Core
 - OWASP Top 10 protection
+- Comprehensive error handling & logging
 
 ### 🧪 Security Testing Framework
-- Python vulnerability scanner
-- API security testing automation
-- Automated reporting
+- Python-based vulnerability scanner
+- Automated API security testing
+- Custom exploit scripts
+- Automated reporting & documentation
 
 ### 🛡️ Penetration Testing Lab
-- Vulnerable applications for practice
+- Vulnerable web applications for practice
 - Custom CTF challenges
 - Security automation tools
+- Docker-based isolated environments
 
 ---
 
@@ -153,7 +164,7 @@ Security isn't just a feature — it's how I approach every project from the gro
 - API Security & OAuth 2.0
 - Cloud Security (AWS, Azure)
 - DevSecOps & CI/CD Security
-- Security Automation
+- Security Automation & Tool Development
 
 ---
 
@@ -161,16 +172,9 @@ Security isn't just a feature — it's how I approach every project from the gro
 
 - **Security by Design, Not by Accident**
 - Think like an attacker, build like a defender
-- Security is a continuous process
-- Clear code is secure code
-
----
-
-## 📜 Certifications (In Progress)
-
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- CEH (Certified Ethical Hacker)
-- OSCP (Offensive Security Certified Professional)
+- Security is a continuous process, not a one-time implementation
+- Clean, maintainable code is more secure code
+- Performance without security is a risk
 
 ---
 
