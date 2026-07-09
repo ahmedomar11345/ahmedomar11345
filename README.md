@@ -3,7 +3,7 @@
 <div align="center">
 
 ## I'm Ahmed Omar 👨‍💻  
-**Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter | ASP.NET Core Developer**
+** Penetration Tester | Bug Bounty Hunter | ASP.NET Core Developer**
 
 </div>
 
