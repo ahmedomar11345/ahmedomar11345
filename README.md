@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=220&section=header&text=Ahmed%20Omar%20Ali%20Hassan&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Development%20%7C%20IT%20Graduate&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Ahmed Omar profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=220&section=header&text=Ahmed%20Omar%20Ali%20Hassan&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Development%20%7C%20IT%20Graduate%20%7C%20Security%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Ahmed Omar profile header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Software+Development+%7C+IT+Graduate;Building+secure%2C+maintainable+APIs;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Learning+how+systems+break+%E2%80%94+then+hardening+them" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Software+Development+%7C+IT+Graduate;Independent+Security+Researcher;Building+secure%2C+maintainable+APIs;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Learning+how+systems+break+%E2%80%94+then+hardening+them" alt="Animated introduction" />
 </a>
 
 <p>
