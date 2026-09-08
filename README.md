@@ -1,184 +1,171 @@
-# 👋 Welcome to My Digital Workspace
-
 <div align="center">
 
-## I'm Ahmed Omar 👨‍💻  
-** Penetration Tester | Bug Bounty Hunter | ASP.NET Core Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Ahmed%20Omar%20Ali%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20IT%20Graduate%20%7C%20Security%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+ASP.NET+Core+%2B+C%23;Independent+Security+Researcher+%40+HackerOne;Building+Clean%2C+Secure%2C+Scalable+APIs;IT+Graduate+%E2%80%94+Delta+Technological+University" alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ahmedomar11345&label=Profile%20Views&color=1F3864&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/ahmedomar11345?label=Followers&style=flat&color=1F3864" alt="followers"/>
+  <img src="https://img.shields.io/badge/HackerOne-Active%20Researcher-black?style=flat&logo=hackerone" alt="hackerone"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
 
-I'm a **cybersecurity specialist** who finds and fixes security vulnerabilities before attackers do.
+I'm an **Information Technology graduate** (Software Development track, Delta Technological University — *Excellent, 85.12%*) who builds **secure, database-driven backend systems** with **ASP.NET Core** and **C#**, and also does **independent web application security research** on the side.
 
-I specialize in **penetration testing**, **bug bounty hunting**, and **secure application development**. I think like an attacker to build better defenses.
-
-Security isn't just a feature — it's how I approach every project from the ground up.
-
----
-
-## 🔐 Cybersecurity Expertise
-
-### 🛡️ Penetration Testing
-- Web Application Penetration Testing (OWASP Top 10)
-- API Security Testing (REST, GraphQL)
-- Authentication & Authorization Testing
-- Access Control Testing (IDOR, Privilege Escalation)
-- SQL Injection, XSS, CSRF, SSRF
-- Business Logic Vulnerabilities
-
-### 🧪 Security Testing
-- Manual vulnerability discovery
-- Exploitation & impact analysis
-- Threat modeling
-- Secure code review
-- Security documentation & reporting
-
-### 🛠️ Security Tools
-- Burp Suite
-- OWASP ZAP
-- Nmap
-- Metasploit
-- SQLMap
-- Wireshark
-- Linux security tools (Kali, Parrot OS)
+- 🎓 IT Graduate — Software Development Track, Class of 2026
+- 🛠️ Backend developer on **S2S**, an AI-powered Arabic Sign Language translation platform
+- 🐞 Independent Vulnerability Researcher on **HackerOne** — auth, IDOR, RBAC & business-logic bugs
+- 📚 Currently studying for the **eJPT** (Junior Penetration Tester) certification
+- 💬 Arabic (native) · English (intermediate)
+- ⚡ Fun fact: I like understanding how systems break so I can build them to not break
 
 ---
 
-## 💻 Backend Development
+### 🧰 Tech Stack
 
-### ⚙️ Backend Technologies
-- **ASP.NET Core Web API**
-- RESTful API Design
-- Middleware & Filters
-- Background Services & Task Scheduling
-- Logging & Error Handling
-- API Versioning
-- Rate Limiting & Throttling
+<div align="center">
 
-### 🧱 Architecture & Design Patterns
-- Clean Architecture
-- SOLID Principles
-- Repository Pattern
-- Unit of Work Pattern
-- Dependency Injection
-- CQRS (Command Query Responsibility Segregation)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,postgres,mysql,docker,git,github,linux,vscode,postman&theme=light" />
 
----
+</div>
 
-## 🗄️ Databases & Data Management
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🟢 SQL Server
+**Backend & APIs**
+- ASP.NET Core Web API · ASP.NET Core MVC
+- RESTful APIs · Swagger / OpenAPI
+- Entity Framework Core · LINQ
+
+**Architecture**
+- Clean Architecture · SOLID
+- Repository Pattern · Unit of Work
+- Dependency Injection · Service Layer
+
+</td>
+<td valign="top" width="50%">
+
+**Auth & Security**
+- ASP.NET Core Identity · JWT
+- OAuth / Google & Firebase Auth
+- RBAC · OTP · CSRF · CORS · Rate Limiting
+
+**Databases**
+- SQL Server · PostgreSQL
 - Database Design & Normalization
-- Stored Procedures & Views
-- Indexing & Performance Tuning
-- Transaction Management
-- Query Optimization
-- Backup & Recovery Strategies
 
-### 🧠 Data Access
-- **Entity Framework Core**
-- LINQ
-- Dapper (Micro ORM)
-- Raw SQL when needed
-- Repository Pattern
-- Database Migrations
+</td>
+</tr>
+</table>
 
-### 🔴 Other Databases
-- PostgreSQL
-- MySQL
-- Redis (Caching & Session Management)
+<div align="center">
+
+**Security Toolkit**
+
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-1F3864?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-00B389?style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+
+</div>
 
 ---
 
-## 🔐 Application Security
+### 🚀 Featured Projects
 
-- **JWT Authentication**
-- Role-Based Access Control (RBAC)
-- Secure Password Hashing (bcrypt, Argon2)
-- Token Management & Rotation
-- **Input Validation & Output Encoding**
-- **SQL Injection Prevention**
-- **Protection against XSS, CSRF, SSRF**
-- HTTPS Enforcement
-- Security Headers (CSP, HSTS, X-Frame-Options)
-- CORS Configuration
-- Encryption at Rest & in Transit
+<table>
+<tr>
+<td width="50%">
 
----
+**🤟 [S2S — Sign-to-Speech Platform](https://s2sai.online)**
+Graduation project · Backend Developer & System Architect
+AI-powered Arabic Sign Language translation (Sign↔Text↔Speech). Clean Architecture across 7 .NET projects, JWT + OTP + Google auth, Docker + Nginx deployment.
+`ASP.NET Core` `EF Core` `SQL Server` `Docker`
 
-## 🧠 Programming Languages
+</td>
+<td width="50%">
 
-- **C#** (Primary)
-- **Python** (Security automation & scripting)
-- **JavaScript**
-- **Bash/PowerShell** (Automation)
-- **C++**
-- **Java**
+**🐦 [PigeonShop](https://github.com/ahmedomar11345/PigeonShop)**
+Full-stack pigeon marketplace with catalog browsing, inventory, and WhatsApp order links.
+`.NET 10` `PostgreSQL` `Supabase` `Docker`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🛠 Tools & Environment
+**🏋️ [Gym Management System](https://github.com/ahmedomar11345/GymManagmentSystem0)**
+Members, trainers, POS, inventory & real-time dashboards with a Business Insights Engine for retention analytics.
+`ASP.NET Core MVC` `SignalR` `SQL Server`
 
-- **Git & GitHub**
-- **Docker**
-- **Postman** (API Testing)
-- **Visual Studio / VS Code**
-- **Linux** (Kali, Ubuntu)
-- **Windows**
-- **VirtualBox / VMware**
-- **Azure DevOps / GitHub Actions** (CI/CD)
+</td>
+<td width="50%">
 
----
+**⚽ Football News Aggregator**
+Python web-scraping app collecting and presenting football news from multiple sources.
+`Python` `Web Scraping`
 
-## 🚀 Featured Projects
-
-### 🔐 Secure Banking API System
-- ASP.NET Core Web API with Clean Architecture
-- JWT authentication with refresh tokens
-- Role-based authorization & audit logging
-- SQL Server with Entity Framework Core
-- OWASP Top 10 protection
-- Comprehensive error handling & logging
-
-### 🧪 Security Testing Framework
-- Python-based vulnerability scanner
-- Automated API security testing
-- Custom exploit scripts
-- Automated reporting & documentation
-
-### 🛡️ Penetration Testing Lab
-- Vulnerable web applications for practice
-- Custom CTF challenges
-- Security automation tools
-- Docker-based isolated environments
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Current Focus
+### 🕵️ Security Research Highlights
 
-- Advanced Web Application Penetration Testing
-- Bug Bounty Hunting
-- API Security & OAuth 2.0
-- Cloud Security (AWS, Azure)
-- DevSecOps & CI/CD Security
-- Security Automation & Tool Development
+Independent researcher on **HackerOne** since Jan 2025 — reproducible PoCs across auth, authorization & business logic:
 
----
-
-## 🎯 Professional Philosophy
-
-- **Security by Design, Not by Accident**
-- Think like an attacker, build like a defender
-- Security is a continuous process, not a one-time implementation
-- Clean, maintainable code is more secure code
-- Performance without security is a risk
+- ⚡ Race condition → subscription-plan bypass
+- 🔓 RBAC bypass via URL manipulation → unauthorized admin access
+- 🎯 Password-reset token flaw → account takeover scenario
+- 🆔 IDOR in a password-change endpoint
+- 🧩 Unauthenticated API data manipulation → formula injection
 
 ---
 
-## 📬 Get In Touch
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar11345&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedomar11345&theme=flat&no-frame=true&column=6&margin-w=10" alt="trophies"/>
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ahmedomar11345/ahmedomar11345/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 🏆 Certificates
+
+- 🎖️ **Back-End .NET Diploma** — Route Academy *(March 2026)*
+- 🎖️ **Ethical Hacker** — Cisco Networking Academy *(May 2025)*
+- 🎖️ **Introduction to Data Science** — Cisco Networking Academy *(May 2025)*
+- 📖 **eJPT** — in progress
+
+---
+
+### 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:ahmedsenara455@gmail.com">
@@ -193,14 +180,15 @@ Security isn't just a feature — it's how I approach every project from the gro
   <a href="https://github.com/ahmedomar11345">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://hackerone.com/a7medomar0x">
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+  </a>
 </p>
-
----
 
 <div align="center">
 
-### *"I break systems to understand them — then build them stronger."* 🔐
+*"I break systems to understand them — then build them stronger."* 🔐
 
-**Security is not just what I do — it's how I think.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
 
 </div>
