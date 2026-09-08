@@ -114,8 +114,15 @@ I conduct independent web application and API research with reproducible proof-o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=0F766E&text_color=334155&rank_icon=github" alt="Ahmed Omar GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F766E&text_color=334155" alt="Most used languages" />
+<a href="https://github.com/ahmedomar11345?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedomar11345&theme=default" width="95%" alt="Ahmed Omar GitHub activity summary" />
+</a>
+
+<br />
+
+<a href="https://github.com/ahmedomar11345?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-0F766E?style=flat-square&logo=github&logoColor=white" alt="View repositories" /></a>
+<a href="https://github.com/ahmedomar11345?tab=followers"><img src="https://img.shields.io/github/followers/ahmedomar11345?label=Followers&style=flat-square&color=2563EB" alt="GitHub followers" /></a>
+<a href="https://github.com/ahmedomar11345"><img src="https://img.shields.io/github/last-commit/ahmedomar11345/ahmedomar11345?label=Profile%20updated&style=flat-square&color=0F766E" alt="Profile last commit" /></a>
 
 </div>
 
