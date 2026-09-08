@@ -1,194 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Ahmed%20Omar%20Ali%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20IT%20Graduate%20%7C%20Security%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=220&section=header&text=Ahmed%20Omar%20Ali%20Hassan&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Developer%20%7C%20Security%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Ahmed Omar profile header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+ASP.NET+Core+%2B+C%23;Independent+Security+Researcher+%40+HackerOne;Building+Clean%2C+Secure%2C+Scalable+APIs;IT+Graduate+%E2%80%94+Delta+Technological+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Building+secure%2C+maintainable+APIs;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Arabic+Sign+Language+translation+systems;Learning+how+systems+break+%E2%80%94+then+hardening+them" alt="Animated introduction" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ahmedomar11345&label=Profile%20Views&color=1F3864&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/ahmedomar11345?label=Followers&style=flat&color=1F3864" alt="followers"/>
-  <img src="https://img.shields.io/badge/HackerOne-Active%20Researcher-black?style=flat&logo=hackerone" alt="hackerone"/>
+  <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmedsenara455@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hackerone.com/a7medomar0x"><img src="https://img.shields.io/badge/HackerOne-111827?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedomar11345&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
----
+## About me
 
-### 👋 About Me
+I am an **Information Technology graduate** focused on software development, with a strong interest in backend engineering and application security. I design database-driven systems, build RESTful APIs, and work across the full delivery cycle: architecture, authentication, integrations, Docker deployment, and secure coding.
 
-I'm an **Information Technology graduate** (Software Development track, Delta Technological University — *Excellent, 85.12%*) who builds **secure, database-driven backend systems** with **ASP.NET Core** and **C#**, and also does **independent web application security research** on the side.
+- Backend developer and system architect for **S2S**, an AI-powered Arabic Sign Language translation platform.
+- Independent vulnerability researcher on **HackerOne**, focusing on authentication, authorization, business logic, and API security.
+- Graduate of Delta Technological University with an **Excellent** overall grade of **85.12%**.
+- Based in Cairo, Egypt. Arabic native, English intermediate.
 
-- 🎓 IT Graduate — Software Development Track, Class of 2026
-- 🛠️ Backend developer on **S2S**, an AI-powered Arabic Sign Language translation platform
-- 🐞 Independent Vulnerability Researcher on **HackerOne** — auth, IDOR, RBAC & business-logic bugs
-- 📚 Currently studying for the **eJPT** (Junior Penetration Tester) certification
-- 💬 Arabic (native) · English (intermediate)
-- ⚡ Fun fact: I like understanding how systems break so I can build them to not break
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,postgres,mysql,docker,git,github,linux,vscode,postman&theme=light" />
-
-</div>
+## What I build
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Backend & APIs**
-- ASP.NET Core Web API · ASP.NET Core MVC
-- RESTful APIs · Swagger / OpenAPI
-- Entity Framework Core · LINQ
+### Secure APIs
 
-**Architecture**
-- Clean Architecture · SOLID
-- Repository Pattern · Unit of Work
-- Dependency Injection · Service Layer
+RESTful services with ASP.NET Core, JWT access tokens, refresh-token rotation, Identity, OTP verification, RBAC, CSRF protection, CORS, rate limiting, and input validation.
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Auth & Security**
-- ASP.NET Core Identity · JWT
-- OAuth / Google & Firebase Auth
-- RBAC · OTP · CSRF · CORS · Rate Limiting
+### Maintainable systems
 
-**Databases**
-- SQL Server · PostgreSQL
-- Database Design & Normalization
+Clean Architecture, SOLID principles, dependency injection, service layers, DTOs, Entity Framework Core, migrations, and normalized relational databases.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI integrations
+
+Speech-to-text with Groq Whisper, text-to-speech with Google Cloud, Hugging Face services, and Firebase Cloud Messaging.
+
+</td>
+<td width="50%" valign="top">
+
+### Delivery and operations
+
+Docker, Docker Compose, Nginx, GitHub Container Registry, Serilog/Seq, Swagger/OpenAPI, and production-minded configuration.
 
 </td>
 </tr>
 </table>
 
+## Tech stack
+
 <div align="center">
 
-**Security Toolkit**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,sqlserver,postgres,docker,git,github,linux,postman,vscode&theme=light" alt="Technology stack" />
 
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-1F3864?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-00B389?style=flat-square&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+<br /><br />
+
+<img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20SOLID%20%7C%20Layered-0F766E?style=flat-square" alt="Architecture" />
+<img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-111827?style=flat-square" alt="Security" />
+<img src="https://img.shields.io/badge/Testing-xUnit%20%7C%20Swagger-2563EB?style=flat-square" alt="Testing" />
 
 </div>
 
----
+## Selected projects
 
-### 🚀 Featured Projects
+### S2S | Arabic Sign Language Translation Platform
 
-<table>
-<tr>
-<td width="50%">
+**Backend Developer and System Architect | ASP.NET Core, C#, SQL Server, EF Core, Docker**
 
-**🤟 [S2S — Sign-to-Speech Platform](https://s2sai.online)**
-Graduation project · Backend Developer & System Architect
-AI-powered Arabic Sign Language translation (Sign↔Text↔Speech). Clean Architecture across 7 .NET projects, JWT + OTP + Google auth, Docker + Nginx deployment.
-`ASP.NET Core` `EF Core` `SQL Server` `Docker`
+A multi-modal accessibility platform supporting Sign-to-Text, Text-to-Sign, Audio-to-Text, Audio-to-Sign, and Text-to-Speech workflows. The backend is organized across seven .NET projects and integrates Groq Whisper, Google Cloud Text-to-Speech, Hugging Face AI services, and Firebase Cloud Messaging.
 
-</td>
-<td width="50%">
+[Visit S2S](https://s2sai.online)
 
-**🐦 [PigeonShop](https://github.com/ahmedomar11345/PigeonShop)**
-Full-stack pigeon marketplace with catalog browsing, inventory, and WhatsApp order links.
-`.NET 10` `PostgreSQL` `Supabase` `Docker`
+### PigeonShop | Pigeon Marketplace
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Full-stack application | ASP.NET Core MVC, .NET 10, PostgreSQL, Supabase, Docker**
 
-**🏋️ [Gym Management System](https://github.com/ahmedomar11345/GymManagmentSystem0)**
-Members, trainers, POS, inventory & real-time dashboards with a Business Insights Engine for retention analytics.
-`ASP.NET Core MVC` `SignalR` `SQL Server`
+A marketplace with catalog browsing, detailed listings, inventory, sales tracking, secure media uploads, search and filtering, and WhatsApp order links.
 
-</td>
-<td width="50%">
+[View repository](https://github.com/ahmedomar11345/PigeonShop)
 
-**⚽ Football News Aggregator**
-Python web-scraping app collecting and presenting football news from multiple sources.
-`Python` `Web Scraping`
+### Gym Management System
 
-</td>
-</tr>
-</table>
+**Web application | ASP.NET Core MVC, .NET 9, EF Core, SQL Server, SignalR**
 
----
+A management platform for members, memberships, trainers, attendance, point-of-sale, inventory, expenses, reports, QR-code access, bilingual UI, and real-time dashboards.
 
-### 🕵️ Security Research Highlights
+[View repository](https://github.com/ahmedomar11345/GymManagmentSystem0)
 
-Independent researcher on **HackerOne** since Jan 2025 — reproducible PoCs across auth, authorization & business logic:
+## Security research
 
-- ⚡ Race condition → subscription-plan bypass
-- 🔓 RBAC bypass via URL manipulation → unauthorized admin access
-- 🎯 Password-reset token flaw → account takeover scenario
-- 🆔 IDOR in a password-change endpoint
-- 🧩 Unauthenticated API data manipulation → formula injection
+I conduct independent web application and API research with reproducible proof-of-concept reports. Areas I investigate include:
 
----
+- Authentication and password-reset flows
+- Authorization, RBAC, and IDOR
+- Race conditions and business-logic abuse
+- API data integrity and injection risks
 
-### 📊 GitHub Stats
+## GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedomar11345&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=0F766E&text_color=334155&rank_icon=github" alt="Ahmed Omar GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedomar11345&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F766E&text_color=334155" alt="Most used languages" />
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedomar11345&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="streak stats"/>
-</div>
+## Certifications
+
+- **Back-End .NET Diploma** - Route Academy, March 2026
+- **Ethical Hacker** - Cisco Networking Academy, May 2025
+- **Introduction to Data Science** - Cisco Networking Academy, May 2025
+
+## Let's connect
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedomar11345&theme=flat&no-frame=true&column=6&margin-w=10" alt="trophies"/>
+
+<a href="mailto:ahmedsenara455@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed Omar" /></a>
+<a href="https://www.linkedin.com/in/ahmed-omar-957b022b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/ahmedomar11345"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+
 </div>
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ahmedomar11345/ahmedomar11345/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-### 🏆 Certificates
-
-- 🎖️ **Back-End .NET Diploma** — Route Academy *(March 2026)*
-- 🎖️ **Ethical Hacker** — Cisco Networking Academy *(May 2025)*
-- 🎖️ **Introduction to Data Science** — Cisco Networking Academy *(May 2025)*
-- 📖 **eJPT** — in progress
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:ahmedsenara455@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/2001029790846">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/ahmedomar11345">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://hackerone.com/a7medomar0x">
-    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
-  </a>
-</p>
-
-<div align="center">
-
-*"I break systems to understand them — then build them stronger."* 🔐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0F766E,100:0F172A&height=100&section=footer" width="100%" alt="Profile footer" />
 
 </div>
