@@ -9,7 +9,6 @@
 <p>
   <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahmedsenara455@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://hackerone.com/a7medomar0x"><img src="https://img.shields.io/badge/HackerOne-111827?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
   <img src="https://komarev.com/ghpvc/?username=ahmedomar11345&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
 </p>
 
