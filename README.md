@@ -83,8 +83,6 @@ Docker, Docker Compose, Nginx, GitHub Container Registry, Serilog/Seq, Swagger/O
 
 A multi-modal accessibility platform supporting Sign-to-Text, Text-to-Sign, Audio-to-Text, Audio-to-Sign, and Text-to-Speech workflows. The backend is organized across seven .NET projects and integrates Groq Whisper, Google Cloud Text-to-Speech, Hugging Face AI services, and Firebase Cloud Messaging.
 
-[Visit S2S](https://s2sai.online)
-
 ### PigeonShop | Pigeon Marketplace
 
 **Full-stack application | ASP.NET Core MVC, .NET 10, PostgreSQL, Supabase, Docker**
@@ -100,6 +98,15 @@ A marketplace with catalog browsing, detailed listings, inventory, sales trackin
 A management platform for members, memberships, trainers, attendance, point-of-sale, inventory, expenses, reports, QR-code access, bilingual UI, and real-time dashboards.
 
 [View repository](https://github.com/ahmedomar11345/GymManagmentSystem0)
+
+### Football News Aggregator
+
+**Python web scraping application | Live demo**
+
+A web-scraping application that collects, processes, and presents football news
+from multiple sources through a user-friendly interface.
+
+[Open live demo](https://koravipe.vercel.app/)
 
 ## Security research
 
