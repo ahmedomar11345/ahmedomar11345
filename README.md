@@ -131,6 +131,8 @@ I conduct independent web application and API research with reproducible proof-o
 - **Back-End .NET Diploma** - Route Academy, March 2026
 - **Ethical Hacker** - Cisco Networking Academy, May 2025
 - **Introduction to Data Science** - Cisco Networking Academy, May 2025
+- **eJPT (Junior Penetration Tester)** - In progress
+- **OSCP (Offensive Security Certified Professional)** - Preparation track
 
 ## Let's connect
 
