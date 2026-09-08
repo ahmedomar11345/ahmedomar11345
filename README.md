@@ -141,6 +141,7 @@ I conduct independent web application and API research with reproducible proof-o
 <a href="mailto:ahmedsenara455@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed Omar" /></a>
 <a href="https://www.linkedin.com/in/ahmed-omar-957b022b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/ahmedomar11345"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+<a href="https://drive.google.com/file/d/1QwJ8Vy7FSiP_9VFLm9BzvKSH3IflnNx4/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-0F766E?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV" /></a>
 
 </div>
 
